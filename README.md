@@ -19,7 +19,7 @@ Recomiendo bajar e instalar esta **extensión de Chrome** para poder avanzar los
 - Conceptos de programación HTML, CSS, Javascript y TypeScript, variables y tipos de datos.
 - Git y Github
 - **Programación Orientada a Objetos POO.**
-- **Proceso de petición protocolo HTTP (GET, POST, PUT).**
+- **Proceso de petición protocolo HTTP (GET, POST, PUT, DELETE).**
 
 **PARADIGMA o PROGRAMACION ORIENTADA A OBJETOS  (POO)**
 
