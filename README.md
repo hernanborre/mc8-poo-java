@@ -41,11 +41,13 @@ Qué es un Objeto?
 
 - **Abstracción:** Es cuando separamos los datos de un objeto para luego generar un molde (una clase).
 - **Encapsulamiento:** Lo puedes utilizar cuando deseas que ciertos métodos o propiedades sean inviolables o inalterables.
-    
     Un ejemplo del encapsulamiento podría ser una cuenta de banco, donde el usuario no puede simplemente aumentar su balance de dinero, si no que debe depender de unos métodos previamente validados para aumentar dicho balance (depósitos, transferencias, etc).
     
 - **Herencia:** Nos permite crear nuevas clases a partir de otras. Si tuviéramos una clase “Autos” y quisiéramos crear unas clases “Auto deportivo” o “Auto clásico”, podríamos tomar varias propiedades y métodos de la clase “Autos”. Esto nos da una jerarquía de padre e hijo.
 - **Polimorfismo:** Proviene de Poli = muchas, morfismo = formas. Se utiliza para crear métodos con el mismo nombre pero con diferente comportamiento.
+
+Qué es agregación? 
+Qué es composición? 
 
 Tipos de datos en JAVA 
 
