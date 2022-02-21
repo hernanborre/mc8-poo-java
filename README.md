@@ -48,6 +48,7 @@ Qué es un Objeto?
 
 Qué es agregación? 
 Qué es composición? 
+Qué es ocultamiento?
 
 Tipos de datos en JAVA 
 
