@@ -40,6 +40,9 @@ Instalar
 
 **MODELAR LA REALIDAD**
 
+** UML - Diagrama de Clases * 
+https://github.com/hernanborre/mc8-poo-java/blob/main/README.md
+
 Qué es una Clase? 
 
 Qué es un atributo? 
