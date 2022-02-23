@@ -28,6 +28,15 @@ Recomiendo bajar e instalar esta **extensión de Chrome** para poder avanzar los
 **Infinitivo** 
 
  ****
+Instalar 
+
+[https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
+[https://netbeans.apache.org/download/index.html](https://netbeans.apache.org/download/index.html)
+
+[https://www.postman.com/downloads/](https://www.postman.com/downloads/)
+
+ ****
 
 **MODELAR LA REALIDAD**
 
