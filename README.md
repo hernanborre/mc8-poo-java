@@ -41,7 +41,7 @@ Instalar
 **MODELAR LA REALIDAD**
 
 ** UML - Diagrama de Clases * 
-https://github.com/hernanborre/mc8-poo-java/blob/main/README.md
+https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml
 
 Qué es una Clase? 
 
